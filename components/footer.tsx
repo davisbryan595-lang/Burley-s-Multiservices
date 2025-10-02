@@ -33,7 +33,7 @@ export function Footer() {
   ]
 
   return (
-    <footer className="bg-secondary text-secondary-foreground">
+    <footer className="bg-transparent text-secondary-foreground">
       <div className="container mx-auto px-4 lg:px-8 py-16">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           {/* Brand */}

@@ -51,7 +51,7 @@ export function Contact() {
   ]
 
   return (
-    <section id="contact" className="py-24 bg-gradient-to-b from-muted/30 to-background">
+    <section id="contact" className="py-24 bg-transparent">
       <div className="container mx-auto px-4 lg:px-8">
         {/* Section Header */}
         <div className="text-center max-w-3xl mx-auto mb-16 space-y-4">

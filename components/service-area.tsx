@@ -15,7 +15,7 @@ export function ServiceArea() {
   ]
 
   return (
-    <section className="py-24 bg-background relative overflow-hidden">
+    <section className="py-24 bg-transparent relative overflow-hidden">
       {/* Background Decoration */}
       <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-transparent" />
 
